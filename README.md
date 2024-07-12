@@ -22,10 +22,10 @@ I have conducted data extraction, cleaning, and analysis from Zomato, a prominen
 - Struggled with creating a consistent data model that integrates various data sources.
 
 **Improvements:**
-- Automated data transformation using ETL (Extract, Transform, Load) tools such as Talend and Apache Nifi.
+- Automated data transformation using ETL (Extract, Transform, Load) process.
 - Developed a comprehensive data model that integrates multiple data sources into a unified format.
   - Created dimension and fact tables to support analytical queries.
-  - Used SQL and Python for advanced data transformations.
+  - Used PostgreSQL for advanced data transformations.
 
 **Result:**
 - Streamlined data transformation process, reducing manual intervention by 25%.
